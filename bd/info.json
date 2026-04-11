@@ -1,0 +1,21 @@
+{
+ "moon_office" : "Um pequeno escritório que foi recém aberto nas periferias do distrito 12 (Antiga L. Corp.). \n\n Esse escritório é comandado por ████ ███ ████ ██ ████ ██.",
+ "bloodfiend"  : "Os Bloodfiends são humanos transformados em criaturas semelhantes a vampiros, que precisam consumir sangue para sobreviver e manter a sanidade. \n\n Eles possuem habilidades físicas superiores, como força e regeneração, mas sofrem com um impulso constante e difícil de controlar por sangue, o que pode levá-los a perder a própria identidade.",
+ 
+ "sobrevivente" : "Uma classe que se beneficia do bom dos dois mundos, é resistente e não tão fácil de ser acertada.",
+ "robusto"      : "Uma classe resistente capaz de absover mais dano que outras classes.",
+ "intocavel"    : "Uma classe extremamente agíl que tem o foco em não ser acertada.",
+ 
+ "stagger"         : "A Stagger é o seu contador de 'Estabilidade', que assim como a vida é reduzida toda vez que você sofre dano. \n\n Quando sua Stagger é completamente zerada, por um turno todas as suas resistências são alteradas para vulnerável (em um ataque sofre o dobro de dano). \n\n Após um turno ela é completamente recuperada.",
+ "desestabilizar"  : "Ao ter seus pontos de vida zerados você não cai, no lugar ficando com um ponto de exaustão. \n\n Em seguida após ganhar um ponto de exaustão você recupera metade da sua Stagger e 10% da Sua Vida Máxima.",
+ "speed"           : "Se trata do valor que determina a sua ordem de ação em uma cena.",
+ "moon_points"     : "Os Moon Points (MP) se tratam de um recurso que pode ser gasto para utilizar as skills únicas de cada jogador. \n\n Todo início de combate, todos os jogadores ganham 3 Moon Points (MP). \n\n No fim do seu turno o alvo recupera 1 Moon Point (MP).",
+ "critical_damage" : "Dano máximo do ataque, skill, item, etc.", 
+ "skills"          : "Habilidades únicas de cada jogador.", 
+ "perks"           : "Habilidades genéricas que alteram levemente o funcionamento das ações de cada jogador.", 
+ "ca"              : "DC de acerto no alvo.", 
+
+ "vulneravel" : "O alvo sobre este efeito sofre o dobro de dano, por X turnos.", 
+ 
+ "absurd_text" : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+}
