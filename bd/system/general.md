@@ -30,4 +30,4 @@ O nível de um personagem influência em quatro coisas: **Vida**, [**Stagger**]{
 Note que apesar de não específicado aqui, existem habilidades, reações, itens etc. que se beneficiam também do seu nível.
 
 # Atributos
-Assim como no sistema D&D 5e, o sistema Moon compartilha dos mesmos seis atributos comuns, mas, no sistema Moon, todos os seus atributos iniciam com o valor base **_-1_**, onde você possui um total de **_+22_** pontos para redistribuir nos seus atributos, se atentando a simples limitação de que um atributo não pode exceder a margem de **_+4_**. 
+Assim como no sistema D&D 5e, o sistema Moon compartilha dos mesmos seis atributos comuns, mas, no sistema Moon, todos os seus atributos iniciam com o valor base **_-1_**, onde você possui um total de **_+26_** pontos para redistribuir nos seus atributos, se atentando a simples limitação de que um atributo não pode exceder a margem de **_+4_**. 
