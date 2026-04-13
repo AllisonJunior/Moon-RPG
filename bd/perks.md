@@ -61,6 +61,9 @@ A sua escolha de Perks atender as seguintes limitações:
 ### Legado de Kamui (_O Grande Samurai Sem Camisa_)
 <p style="margin-top: 10px;">O valor final da sua reação de [<b>evadir</b>]{evade} aumenta em +1 para cada dois efeitos negativos distintos presentes no alvo.</p>
 
+### Resiliente
+<p style="margin-top: 10px;">Você ganha proficiência em um atributo de sua escolha, além de o aumentar em +1 (<i>esse aumento excede o limíte de +4 inicial</i>).</p>
+
 ### Senso de Proteção
 <p style="margin-top: 10px;">No início de um combate conceda [<b>1 <img src="../../res/effects/Protection.png"> de proteção</b>]{protection} para até três aliados, por um turno.</p>
 
@@ -84,5 +87,8 @@ A sua escolha de Perks atender as seguintes limitações:
 
 ### Resistência Lendária
 <p style="margin-top: 10px;">Enquanto estiver com 25% da sua vida máxima, todo dano causado em você é reduzido em 3.</p>
+
+### Analista
+<p style="margin-top: 10px;">Você ganha um bônus de +5 nas suas perícias de percepção, investigação e intuição.</p>
 
 ---
