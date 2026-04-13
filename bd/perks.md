@@ -95,7 +95,7 @@ A sua escolha de Perks atender as seguintes limitações:
 <p style="margin-top: 10px;">Uma vez por combate ao dar [<b>stagger</b>]{stagger} em um inimigo você pode escolher recuperar toda a sua [<b>stagger</b>]{stagger}. O uso é recuperado com um descanso longo.</p>
 
 ### Resquícios de Uma Antiga Névoa Vermelha
-<p style="margin-top: 10px;">O seu acerto é aumentado em +1 para cada 2 de diferença de speed entre você e o seu alvo.</p>
+<p style="margin-top: 10px;">O seu acerto e clash ganham um bônus de +1 para cada 2 de diferença de speed entre você e o seu alvo.</p>
 
 
 ---
