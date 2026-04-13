@@ -19,13 +19,15 @@
  "counter"         : "Reação de defesa, que permite devolver um ataque em seu atacante (desde que tenha alcance).",   
  "clash"           : "Reação de defesa ofensiva, que permite redirecionar o ataque de um inimigo para si, começando uma troca de ataques até que um dos dois falhe.",   
  "common_attack"   : "Um ataque não provindo de uma ação de skill.",
+ "shield"          : "Vida temporária.",
 
  "vulneravel"    : "O alvo sobre este efeito sofre o dobro de dano, por X turnos.",
  "protection"    : "Sofra -(X*10)% de dano, por Y turnos. (Valor máximo de X = 10).",
- "power_up"      : "Aumente o resultado do seu acerto em X.",
- "power_down"    : "Reduza o resultado do seu acerto em X.",
+ "power_up"      : "Aumente o resultado dos seus testes em X.",
+ "power_down"    : "Reduza o resultado dos seus testes em X.",
  "vulnerability" : "O alvo sofre o dobro de dano, por X turnos.",
  "haste"         : "O speed do alvo é aumentado em X, por X turnos.",
+ "paralyze"      : "Reduza as próximas Y rolagem do alvo em (X*2).",
  
  "absurd_text" : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 }

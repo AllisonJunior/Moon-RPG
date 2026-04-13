@@ -113,7 +113,15 @@ A sua escolha de Perks atender as seguintes limitações:
 <p style="margin-top: 10px;">Uma vez por turno ao utilizar uma [<b>skill</b>]{skills} que custa [<b>1 pm</b>]{moon_points}, você pode gastar sua ação bônus ou reação para a executar novamente.</p>
 
 ### Memória de Uma Efígie Antiga
-<p style="margin-top: 10px;">No início de um combate ganhe [<b>d6 <img src="../../res/effects/Haste.png"> de haste</b>]{haste} por todo o combate. </p>
+<p style="margin-top: 10px;">No início de um combate ganhe [<b>d6 <img src="../../res/effects/Haste.png"> de haste</b>]{haste} por todo o combate.</p>
 
+### Senso de Dever
+<p style="margin-top: 10px;">Quando um aliado cair pela primeira vez ganhe [<b>1 <img src="../../res/effects/Power Up.png"> de power up</b>]{power_up} por todo o combate.</p>
+
+### Desejo de Vingança
+<p style="margin-top: 10px;">Uma vez por combate ao usar a reação de [<b>contra ataque</b>]{counter} a mesma causa +20 de dano adicional e recupera 25% da sua vida máxima como pontos de vida (<i>vida excedente é convertida em [<b>shield</b>]{shield}</i>).</p>
+
+### Contato Paralisante
+<p style="margin-top: 10px;">A primeira vez que um inimigo acertar um ataque em você o mesmo ganha [<b>1 <img src="../../res/effects/Paralyze.png"> de paralisar</b>]{paralyze}, para 2 rolagens.</p>
 
 ---

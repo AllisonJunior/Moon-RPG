@@ -4,6 +4,9 @@ O sistema Moon utiliza d10 nas suas rolagens.
 # Proficiência
 O modificador de proficiência é um bônus de uso exclusivo de perícias, testes e salvaguardas. Seu valor inicial é **_+1_** e é aumentado conforme o nível também aumenta.
 
+# Shield
+No sistema Moon vida excedente é classificada como **Shield**. Em outras palavras vida temporária.   
+
 # Dano Crítico
 Quando um ataque seja ele um comum ou provindo de uma [**skill**]{skills} rola um valor máximo no seu acerto (**_10_**) o mesmo causa dano máximo.
 
