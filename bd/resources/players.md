@@ -32,3 +32,18 @@ Aqui estarão listadas as armas de cada jogador.
 <p style="margin-top: 10px;">O alcance dessa arma é aumentado em +5 feet e ao acertar um ataque crítico não provindo de [<b>skills</b>]{skills} você pode atacar novamente (<b><i>Máx 2x</i></b>).</p>
 
 ---
+
+<img src="../../res/playerstokens/viktor.png" style="float: right;">
+
+### Lança de Sangue (_Viktor Valenhardt_)
+
+#### Acerto 
+<p style="margin-top: 10px;">d10 + Proficiência + Destreza</p>
+
+#### Dano
+<p style="margin-top: 10px;">2d8 + Destreza + 2, <b>[<img src="../../res/img/pierce.png"> Cortante]</b></p>
+
+#### Habilidade
+<p style="margin-top: 10px;">???</p>
+
+---
