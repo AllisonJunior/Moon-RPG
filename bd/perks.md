@@ -52,6 +52,9 @@ A sua escolha de Perks atender as seguintes limitações:
 ### De Volta Senhor
 <p style="margin-top: 10px;">Um total de duas vezes por turno ao sofrer um ataque e não ser acertado, você pode como ação livre utilizar a reação de [<b>contra ataque</b>]{counter}.</p>
 
+### Alerta
+<p style="margin-top: 10px;">Você tem vantagem em testes de [<b>speed</b>]{speed} e um bônus de +3 ao resultado.</p>
+
 ### Assistência 
 <p style="margin-top: 10px;">Uma vez por turno você pode utilizar uma reação como ação livre para proteger um aliado, que esteja em até 10 feet de você.</p>
 
@@ -60,6 +63,9 @@ A sua escolha de Perks atender as seguintes limitações:
 
 ### Senso de Proteção
 <p style="margin-top: 10px;">No início de um combate conceda [<b>1 <img src="../../res/effects/Protection.png"> de proteção</b>]{protection} para até três aliados, por um turno.</p>
+
+### Mestre de Combate
+<p style="margin-top: 10px;">Seus acertos críticos causam +10 de dano.</p>
 
 ### Postura Inabalável
 <p style="margin-top: 10px;">Na primeira vez que você tiver sua [<b>barra de stagger</b>]{stagger} zerada você reduz o dano nela, te fazendo ficar com [<b>1 de stagger</b>]{stagger}.</p>
@@ -72,5 +78,11 @@ A sua escolha de Perks atender as seguintes limitações:
 
 ### Fagulha de Uma Pequena Reverberação Azul
 <p style="margin-top: 10px;">Danos a distância são reduzidos em 4.</p>
+
+### Força Eminente
+<p style="margin-top: 10px;"><b><i>Requisito: +4 de Força - </i></b>Uma vez por turno ao acertar um inimigo, você pode o mover 5 feet para trás.</p>
+
+### Resistência Lendária
+<p style="margin-top: 10px;">Enquanto estiver com 25% da sua vida máxima, todo dano causado em você é reduzido em 3.</p>
 
 ---
