@@ -1,7 +1,7 @@
 <img src="../../res/img/tank.png" style="float: right;">
 
 # Robusto
-_Aquele que encara a violência de frente e continua de pé... muralha viva...._ 
+_Aquele que encara a violência de frente e continua de pé... uma muralha viva...._ 
 
 ---
 

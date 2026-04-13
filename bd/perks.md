@@ -54,7 +54,7 @@ A sua escolha de Perks atender as seguintes limitações:
 ---
 
 ### Concentração
-<p style="margin-top: 10px;">Pela duração de todo o seu primeiro turno em um combate você ganha [<b>4 <img src="../../res/effects/Power Up.png"> de power up</b>]{power_up} e [<b>4 <img src="../../res/effects/Armor.png"> de amor</b>]{armor}.</p>
+<p style="margin-top: 10px;">Pela duração de todo o seu primeiro turno em um combate você ganha [<b>4 <img src="../../res/effects/Power Up.png"> de power up</b>]{power_up} e [<b>4 <img src="../../res/effects/Armor.png"> de armor</b>]{armor}.</p>
 
 ---
 

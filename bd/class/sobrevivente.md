@@ -23,7 +23,7 @@ _Alguém que foi moldado pela violência da cidade... mas, continua a viver..._
 ---
 
 #### Surto de Ação
-<p style="margin-top: 10px; ">Uma vez por turno como ação livre você pode tomar uma ação adicional. Note que o uso dessa habilidade é limitado a uma vez por combate. O uso dessa habilidade aumenta em <b><i>+1</i></b> a cada 10 níveis.</p>
+<p style="margin-top: 10px; ">Uma vez por turno como ação livre você pode tomar uma ação adicional. Note que o uso dessa habilidade é limitado a uma vez por combate. O uso dessa habilidade aumenta em +1 a cada 10 níveis.</p>
 
 ---
 
