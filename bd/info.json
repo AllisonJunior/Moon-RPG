@@ -17,10 +17,13 @@
  "evade"           : "Reação de esquiva, que ativa um salvaguarda de destreza para tentar ignorar o ataque.",   
  "defense"         : "Reação de defesa, que ativa uma redução de dano com base no seu nível.",   
  "counter"         : "Reação de defesa, que permite devolver um ataque em seu atacante (desde que tenha alcance).",   
+ "clash"           : "Reação de defesa ofensiva, que permite redirecionar o ataque de um inimigo para si, começando uma troca de ataques até que um dos dois falhe.",   
  "common_attack"   : "Um ataque não provindo de uma ação de skill.",
 
  "vulneravel" : "O alvo sobre este efeito sofre o dobro de dano, por X turnos.",
  "protection" : "Sofra -(X*10)% de dano, por Y turnos. (Valor máximo de X = 10).",
+ "power_up"   : "Aumente o resultado do seu acerto em X.",
+ "power_down" : "Reduza o resultado do seu acerto em X.",
  
  "absurd_text" : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 }

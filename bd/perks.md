@@ -97,5 +97,17 @@ A sua escolha de Perks atender as seguintes limitações:
 ### Resquícios de Uma Antiga Névoa Vermelha
 <p style="margin-top: 10px;">O seu acerto e clash ganham um bônus de +1 para cada 2 de diferença de speed entre você e o seu alvo.</p>
 
+### Desejo de Sobrevivência
+<p style="margin-top: 10px;">Um total de duas vezes ao sofrer stagger em um combate você ganha [<b>1 <img src="../../res/effects/Protection.png"> de proteção</b>]{protection} e [<b>1 <img src="../../res/effects/Power Up.png"> de power up</b>]{power_up}, por todo o combate.</p>
+
+### Pressão
+<p style="margin-top: 10px;">Ao ativar [<b>clash</b>]{clash} contra um inimigo, o mesmo ganha uma penalidade de -1 em seus resultados.</p>
+
+### Auxílio Devido
+<p style="margin-top: 10px;">No inicío de um combate conceda [<b>1 <img src="../../res/effects/Power Up.png"> de power up</b>]{power_up} para até três aliados, por um turno.</p>
+
+### Pequena Moeda Enferrujada
+<p style="margin-top: 10px;">Uma vez por turno ao utilizar uma [<b>skill</b>]{skills} que custa [<b>1 pm</b>]{moon_points}, você pode gastar sua ação bônus ou reação para a executar novamente.</p>
+
 
 ---
