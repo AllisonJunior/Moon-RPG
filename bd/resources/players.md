@@ -41,7 +41,7 @@ Aqui estarão listadas as armas de cada jogador.
 <p style="margin-top: 10px;">d10 + Proficiência + Destreza</p>
 
 #### Dano
-<p style="margin-top: 10px;">2d8 + Destreza + 2, <b>[<img src="../../res/img/pierce.png"> Cortante]</b></p>
+<p style="margin-top: 10px;">2d8 + Destreza + 2, <b>[<img src="../../res/img/pierce.png"> Perfurante]</b></p>
 
 #### Habilidade
 <p style="margin-top: 10px;">???</p>
