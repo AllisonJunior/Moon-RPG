@@ -5,7 +5,7 @@
 
 
 <head>
-       <title>Perks | Moon</title>
+       <title>Recursos | Moon</title>
 
        <link rel="stylesheet" href="../styles/pages.css">
        <link rel="icon" href="../res/favicons/main.ico">
@@ -17,7 +17,14 @@
 <body>
        <div class="page_container">
 
-             <div mkd-content="../../bd/resources.md"></div>       
+             <nav class="navbar">
+               <div class="nav-right">
+                   <button data-md="../../bd/resources/players.md">Armas</button>        
+                   <button data-md="../../bd/resources/others.md">Outros</button>
+               </div>
+             </nav>
+
+             <div mkd-content=""></div>       
 
              <button class = "btn" onclick="nav('../../index.html')">Voltar</button>
        </div>
