@@ -16,6 +16,7 @@
  "ca"              : "DC de acerto no alvo.", 
  "evade"           : "Reação de esquiva, que ativa um salvaguarda de destreza para tentar ignorar o ataque.",   
  "defense"         : "Reação de defesa, que ativa uma redução de dano com base no seu nível.",   
+ "counter"         : "Reação de defesa, que permite devolver um ataque em seu atacante (desde que tenha alcance).",   
  "common_attack"   : "Um ataque não provindo de uma ação de skill.",
 
  "vulneravel" : "O alvo sobre este efeito sofre o dobro de dano, por X turnos.",

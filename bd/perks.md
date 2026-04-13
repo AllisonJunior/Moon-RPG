@@ -49,6 +49,9 @@ A sua escolha de Perks atender as seguintes limitações:
 ### Luar Perfeito
 <p style="margin-top: 10px;">Quando um combate começa você começa com [<b>1 mp</b>]{moon_points}, mas no fim do seu turno você ganha dois pontos em vez de só um.</p>
 
+### De Volta Senhor
+<p style="margin-top: 10px;">Um total de duas vezes por turno ao sofrer um ataque e não ser acertado, você pode como ação livre utilizar a reação de [<b>contra ataque</b>]{counter}.</p>
+
 ### Assistência 
 <p style="margin-top: 10px;">Uma vez por turno você pode utilizar uma reação como ação livre para proteger um aliado, que esteja em até 10 feet de você.</p>
 
@@ -63,5 +66,8 @@ A sua escolha de Perks atender as seguintes limitações:
 
 ### Um Por Todos
 <p style="margin-top: 10px;">Uma vez por combate ao receber um efeito positivo a partir de uma [<b>skill</b>]{skills} você pode replicar este efeito em um outro aliado que esteja em até 5 feet de você (<i>quando possível</i>).</p>
+
+### Boa Escolha
+<p style="margin-top: 10px;">Ao acertar um ataque recupere 3 pontos de vida duas vezes por turno.</p>
 
 ---
