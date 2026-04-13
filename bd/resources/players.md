@@ -11,7 +11,7 @@ Aqui estarão listadas as armas de cada jogador.
 <p style="margin-top: 10px;">d10 + Proficiência + Destreza, Inteligência ou Sabedoria</p>
 
 #### Dano
-<p style="margin-top: 10px;">4d4 + Destreza, <b>[<img src="../../res/img/pierce.png"> Perfurante]</b></p>
+<p style="margin-top: 10px;">4d4 + Destreza + Inteligência ou Sabedoria, <b>[<img src="../../res/img/pierce.png"> Perfurante]</b></p>
 
 #### Habilidade
 <p style="margin-top: 10px;">Uma vez por turno ao acertar um ataque, você pode aumentar a potência de um efeito negativo em +1 (<i>desde que seja possível</i>).</p>
