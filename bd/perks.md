@@ -76,6 +76,9 @@ A sua escolha de Perks atender as seguintes limitações:
 ### Um Por Todos
 <p style="margin-top: 10px;">Uma vez por combate ao receber um efeito positivo a partir de uma [<b>skill</b>]{skills} você pode replicar este efeito em um outro aliado que esteja em até 5 feet de você (<i>quando possível</i>).</p>
 
+### Contrato de Abate
+<p style="margin-top: 10px;">A primeira vez que você zerar a [<b>barra de stagger</b>]{stagger} de um inimigo, o mesmo ganha o efeito de [<b>vulnerável<img src="../../res/effects/Vulnerability.png"></b>]{vulnerability}, por um turno.</p>
+
 ### Recuperação Simples
 <p style="margin-top: 10px;">Ao acertar um ataque recupere 3 pontos de vida duas vezes por turno.</p>
 
