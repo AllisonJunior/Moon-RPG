@@ -17,7 +17,7 @@ A sua escolha de Perks atender as seguintes limitações:
 <p style="margin-top: 10px; ">Você aumenta o seu movimento máximo em +15 feet.</p>
 
 ### Evasão Definitiva
-<p style="margin-top: 10px; ">Sua reação de <b>[evadir]{evade}</b> quando ativada permanece ativa para todos os ataques que você sofrer até o início do seu próximo turno, mas note que ela é encerrada se durante esse período você falhar na salvaguarda de destreza de um ataque.</p>
+<p style="margin-top: 10px; ">Sua reação de <b>[evadir]{evade}</b> quando ativada permanece ativa para todos os ataques que você sofrer até o início do seu próximo turno, mas note que ela é encerrada se durante esse período você falhar na salvaguarda de destreza de um ataque (<i>um crítico ignora a necessidade de fazer testes</i>).</p>
 
 ### Necessidade de Acerto
 <p style="margin-top: 10px; ">Você aumenta o valor do acerto dos seus ataques em +1.</p>
