@@ -193,6 +193,16 @@ body {
   display: block;
 }
 
+/* icones inline dentro de texto markdown */
+.page_container [mkd-content] p img {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  max-width: none;
+  margin: 0 1px;
+  vertical-align: text-bottom;
+}
+
 .page_container iframe,
 .page_container video {
   max-width: 100%;

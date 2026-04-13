@@ -14,16 +14,16 @@ A sua escolha de Perks atender as seguintes limitações:
 ---
 
 ### Velocidade Monstruosa
-<p style="margin-top: 10px; ">Você aumenta o seu movimento máximo em <b><i>+15 feet</i></b>.</p>
+<p style="margin-top: 10px; ">Você aumenta o seu movimento máximo em +15 feet.</p>
 
 ### Evasão Definitiva
 <p style="margin-top: 10px; ">Sua reação de <b>[evadir]{evade}</b> quando ativada permanece ativa para todos os ataques que você sofrer até o início do seu próximo turno, mas note que ela é encerrada se durante esse período você falhar na salvaguarda de destreza de um ataque.</p>
 
 ### Necessidade de Acerto
-<p style="margin-top: 10px; ">Você aumenta o valor do acerto dos seus ataques em <b><i>+1</i></b>.</p>
+<p style="margin-top: 10px; ">Você aumenta o valor do acerto dos seus ataques em +1.</p>
 
 ### Defesa Avançada
-<p style="margin-top: 10px; ">Você aumenta a redução concedida pela sua reação de <b>[defesa]{defense}</b> em <b><i>+5</i></b>.</p>
+<p style="margin-top: 10px; ">Você aumenta a redução concedida pela sua reação de <b>[defesa]{defense}</b> em +5.</p>
 
 ### Combatente Montado
 <p style="margin-top: 10px; ">Enquanto montado você ganha vantagem em ataques corpo a corpo e vantagem em salvaguardas de força.</p>
@@ -35,13 +35,16 @@ A sua escolha de Perks atender as seguintes limitações:
 <p style="margin-top: 10px; ">No seu turno aumente em +5 o dano final de um de seus ataques para cada 10 feet movimentado.</p>
 
 ### Prodígio
-<p style="margin-top: 10px; ">Ao aplicar efeitos com suas [<b>skills</b>]{skills}, você aplica um de duração adicional (<i>quando possível</i>).</p>
+<p style="margin-top: 10px; ">Ao aplicar efeitos negativos com suas [<b>skills</b>]{skills} em inimigos, você aplica um de duração adicional (<i>quando possível</i>).</p>
 
 ### Concentração Máxima
-<p style="margin-top: 10px;">Pela duração de todo o seu primeiro turno em um combate, você ganha os seguintes beneficíos: <i><b>+4</b> de acerto em ataques e <b>+4</b> de <b>[CA]{ca}</b>.</i></p>
+<p style="margin-top: 10px;">Pela duração de todo o seu primeiro turno em um combate, você ganha os seguintes beneficíos: +4 de acerto em ataques e +4 de [<b>CA</b>]{ca}</b>.</i></p>
 
-### Disparada
+### Senso de Mobilidade
 <p style="margin-top: 10px;">Como uma ação bônus você pode utilizar a ação de disparada.</p>
+
+### Coração da Aspiração 
+<p style="margin-top: 10px;">Uma vez por turno ao acertar seu primeiro ataque recupere d6 pontos de [<b>stagger</b>]{stagger}.</p>
 
 ### Luar Perfeito
 <p style="margin-top: 10px;">Quando um combate começa você começa com [<b>1 mp</b>]{moon_points}, mas no fim do seu turno você ganha dois pontos em vez de só um.</p>
@@ -50,6 +53,15 @@ A sua escolha de Perks atender as seguintes limitações:
 <p style="margin-top: 10px;">Uma vez por turno você pode utilizar uma reação como ação livre para proteger um aliado, que esteja em até 10 feet de você.</p>
 
 ### Legado de Kamui (_O Grande Samurai Sem Camisa_)
-<p style="margin-top: 10px;">O valor final da sua reação de [<b>evadir</b>]{evade} aumenta em <b><i>+1</i></b> para cada dois efeitos negativos distintos presentes no alvo.</p>
+<p style="margin-top: 10px;">O valor final da sua reação de [<b>evadir</b>]{evade} aumenta em +1 para cada dois efeitos negativos distintos presentes no alvo.</p>
+
+### Senso de Proteção
+<p style="margin-top: 10px;">No início de um combate conceda [<b>1 <img src="../../res/effects/Protection.png"> de proteção</b>]{protection} para até três aliados, por um turno.</p>
+
+### Postura Inabalável
+<p style="margin-top: 10px;">Na primeira vez que você tiver sua [<b>barra de stagger</b>]{stagger} zerada você reduz o dano nela, te fazendo ficar com [<b>1 de stagger</b>]{stagger}.</p>
+
+### Um Por Todos
+<p style="margin-top: 10px;">Uma vez por combate ao receber um efeito positivo a partir de uma [<b>skill</b>]{skills} você pode replicar este efeito em um outro aliado que esteja em até 5 feet de você (<i>quando possível</i>).</p>
 
 ---
