@@ -16,15 +16,14 @@ _Aqueles que reinam e devem reinar..._
 #### Perícias
 <p style="margin-top: 10px;"><i>Escolha quatro, e ganhe proficiência em três delas e expertise em uma.</i></p>   
 
+#### Ataque Extra 
+<p style="margin-top: 10px;"><i>Como ação bônus você pode realizar um ataque.</i></p>  
+
 #### Humanidade (*Traço Único*)
 <p style="margin-top: 10px;"><i>Como ação bônus única por combate você pode ganhar um ponto de exaustão e dobrar a aplicação de efeitos e dano da sua próxima ação.</i></p>  
 
 ---
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -56,6 +55,9 @@ _Aqueles que possuem os temidos olhos carmesim..._
 
 #### Perícias
 <p style="margin-top: 10px;"><i>Escolha duas, e ganhe expertise nelas.</i></p>   
+
+#### Ataque Extra 
+<p style="margin-top: 10px;"><i>Como ação bônus você pode realizar um ataque.</i></p>  
 
 #### Sede de Sangue (*Traço Único*)
 <p style="margin-top: 10px;"><i>Ao acertar um ataque recupere 3 pontos de vida (desde que o alvo seja um ser vivo).</i></p>  

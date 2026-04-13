@@ -20,12 +20,10 @@ Todos os jogadores da mesa começam no nível 01.
 Duas raças podem ser escolhidas **Humano** e [**Bloodfiend**]{bloodfiend}, mas a segunda requer uma justificativa válida para o motivo de sua escolha, além de trazer consequências ao jogador.
 
 #### Classe
-Três classes podem ser escolhidas [**Sobrevivente**]{sobrevivente}, [**Robusto**]{robusto} e [**Intocável**]{intocavel}, elas concedem bônus específicos e habilidades únicas, além de também definirem a sua [**Speed**]{speed}, [**Classe de Armadura (CA)**]{ca}. 
+Três classes podem ser escolhidas [**Robusto**]{robusto}, [**Sobrevivente**]{sobrevivente} e [**Intocável**]{intocavel}, elas concedem bônus específicos e habilidades únicas, além de também definirem a sua [**Speed**]{speed}, [**Classe de Armadura (CA)**]{ca}. 
 
 #### Perks
 Esse sistema disponibiliza uma série de habilidades genéricas que alteram o funcionamento de algumas habilidades, classes, ações, etc. 
-
-Cada jogador possui um total de quatro slots de perks únicas (*ou seja não pode escolher a mesma perk duas vezes*) para escolher.
 
 #### Skills
 Cada jogador possui uma série de habilidades únicas, que custam [**Pontos de Moon**]{moon_points} para serem utilizadas, específicamente as que custam [**MP**]{moon_points} são as três ações únicas de ataque, já as passivas e reação de defesa única não custam nada para serem utilizadas/funcionarem.
