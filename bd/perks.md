@@ -91,4 +91,7 @@ A sua escolha de Perks atender as seguintes limitações:
 ### Analista
 <p style="margin-top: 10px;">Você ganha um bônus de +5 nas suas perícias de percepção, investigação e intuição.</p>
 
+### Restaurar Postura
+<p style="margin-top: 10px;">Uma vez por combate ao dar [<b>stagger</b>]{stagger} em um inimigo você pode escolher recuperar toda a sua [<b>stagger</b>]{stagger}. O uso é recuperado com um descanso longo.</p>
+
 ---
