@@ -7,6 +7,11 @@ O modificador de proficiência é um bônus de uso exclusivo de perícias, teste
 # Dano Crítico
 Quando um ataque seja ele um comum ou provindo de uma [**skill**]{skills} rola um valor máximo no seu acerto (**_10_**) o mesmo causa dano máximo.
 
+# Moon Points
+Cada jogador possui um recurso único conhecido como "**Pontos Moon**", esse recurso serve para utilizar [**skills**]{skills}. 
+
+No início de um combate o jogador ganha **três pontos moon** (*tal valor que se trata do valor máximo, note que o valor máximo aumenta conforme você ganha níveis*) e no fim do seu turno o mesmo recupera um ponto.
+
 # Ataque Extra
 Você pode atacar com uma ação bônus.
 

@@ -376,3 +376,50 @@ body {
     rgba(130, 150, 210, 0.9)
   );
 }
+
+/* ========================= */
+/* LISTAS E BLOCKQUOTES */
+/* ========================= */
+.page_container [mkd-content] ul,
+.page_container [mkd-content] ol {
+  margin: 10px 0;
+  padding-left: 24px;
+}
+
+.page_container [mkd-content] li {
+  margin: 6px 0;
+  line-height: 1.6;
+}
+
+.page_container [mkd-content] ul ul,
+.page_container [mkd-content] ol ul,
+.page_container [mkd-content] ul ol,
+.page_container [mkd-content] ol ol {
+  margin: 4px 0;
+  padding-left: 2em;
+}
+
+.page_container [mkd-content] blockquote {
+  margin: 10px 0 10px 0;
+  padding-left: 16px;
+  border-left: 4px solid rgba(138, 43, 226, 0.4);
+  color: rgba(0, 0, 0, 0.75);
+  font-style: italic;
+}
+
+.page_container [mkd-content] blockquote p {
+  margin: 6px 0;
+}
+
+/* sub-listas aninhadas */
+.page_container [mkd-content] li li {
+  font-size: 0.95em;
+  color: #000;
+  font-style: italic;
+}
+
+.page_container [mkd-content] li li li {
+  font-size: 0.9em;
+  color: #000;
+  font-style: italic;
+}

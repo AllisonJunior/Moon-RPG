@@ -12,8 +12,11 @@
  "moon_points"     : "Os Moon Points (MP) se tratam de um recurso que pode ser gasto para utilizar as skills únicas de cada jogador. \n\n Todo início de combate, todos os jogadores ganham 3 Moon Points (MP). \n\n No fim do seu turno o alvo recupera 1 Moon Point (MP).",
  "critical_damage" : "Dano máximo do ataque, skill, item, etc.", 
  "skills"          : "Habilidades únicas de cada jogador.", 
- "perks"           : "Habilidades genéricas que alteram levemente o funcionamento das ações de cada jogador.", 
+ "perks"           : "Habilidades genéricas que alteram/melhoram o funcionamento de mecânicas, ações, skills, etc.", 
  "ca"              : "DC de acerto no alvo.", 
+ "evade"           : "Reação de esquiva, que ativa um salvaguarda de destreza para tentar ignorar o ataque.",   
+ "defense"         : "Reação de defesa, que ativa uma redução de dano com base no seu nível.",   
+ "common_attack"   : "Um ataque não provindo de uma ação de skill.",
 
  "vulneravel" : "O alvo sobre este efeito sofre o dobro de dano, por X turnos.", 
  

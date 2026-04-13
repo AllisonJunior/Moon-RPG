@@ -23,7 +23,7 @@ Duas raças podem ser escolhidas **Humano** e [**Bloodfiend**]{bloodfiend}, mas 
 Três classes podem ser escolhidas [**Sobrevivente**]{sobrevivente}, [**Robusto**]{robusto} e [**Intocável**]{intocavel}, elas concedem bônus específicos e habilidades únicas, além de também definirem a sua [**Speed**]{speed}, [**Classe de Armadura (CA)**]{ca}. 
 
 #### Perks
-Esse sistema disponibiliza uma série de habilidades genéricas que alteram levemente o funcionamento de algumas habilidades, classes, ações, etc. 
+Esse sistema disponibiliza uma série de habilidades genéricas que alteram o funcionamento de algumas habilidades, classes, ações, etc. 
 
 Cada jogador possui um total de quatro slots de perks únicas (*ou seja não pode escolher a mesma perk duas vezes*) para escolher.
 
