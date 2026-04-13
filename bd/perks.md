@@ -1,4 +1,4 @@
-<img src="../../res/img/yuri_and_charon.gif" style="float: right; margin-top: 60px;">
+<img src="../../res/img/yuri_and_charon.gif" style="float: right; margin-top: 80px;">
 
 # Perks
 A sua escolha de Perks atender as seguintes limitações: 
@@ -6,8 +6,8 @@ A sua escolha de Perks atender as seguintes limitações:
 - Nenhuma Perk pode ser escolhida mais de uma vez, todas são únicas.
 - Você pode escolher até quatro perks sem receber nenhuma penalidade.
 - Escolher uma perk acima do limíte de quatro te concede uma das seguintes penalidades (_a sua escolha_):
-    - Vida máxima reduzida em -10.
-    - Stagger máxima reduzida em -5.
+    - Vida máxima reduzida em -10 (_se você for robusto ou sobrevivente_) e -5 (_se você for intocável_).
+    - Stagger máxima reduzida em -10 (_se você for robusto_) e -5 (_se você for intocável ou sobrevivente_).
     - Redução em -2 de um atributo (_a sua escolha_). 
     - Aumente o nível de uma das suas resistências: | **resistente** --> **normal** | **normal** --> **vulnerável** |. 
     
@@ -70,7 +70,7 @@ A sua escolha de Perks atender as seguintes limitações:
 ### Recuperação Simples
 <p style="margin-top: 10px;">Ao acertar um ataque recupere 3 pontos de vida duas vezes por turno.</p>
 
-### Pequena Reverberação Azul
-<p style="margin-top: 10px;">Ao acertar um ataque recupere 3 pontos de vida duas vezes por turno.</p>
+### Fagulha de Uma Pequena Reverberação Azul
+<p style="margin-top: 10px;">Danos a distância são reduzidos em 4.</p>
 
 ---
