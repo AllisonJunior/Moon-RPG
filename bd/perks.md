@@ -112,5 +112,8 @@ A sua escolha de Perks atender as seguintes limitações:
 ### Pequena Moeda Enferrujada
 <p style="margin-top: 10px;">Uma vez por turno ao utilizar uma [<b>skill</b>]{skills} que custa [<b>1 pm</b>]{moon_points}, você pode gastar sua ação bônus ou reação para a executar novamente.</p>
 
+### Memória de Uma Efígie Antiga
+<p style="margin-top: 10px;">No início de um combate ganhe [<b>d6 <img src="../../res/effects/Haste.png"> de haste</b>]{haste} por todo o combate. </p>
+
 
 ---
