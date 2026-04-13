@@ -89,7 +89,7 @@ A sua escolha de Perks atender as seguintes limitações:
 <p style="margin-top: 10px;"><b><i>Requisito: +4 de Força - </i></b>Uma vez por turno ao acertar um inimigo, você pode o mover 5 feet para trás.</p>
 
 ### Resistência Lendária
-<p style="margin-top: 10px;">Enquanto estiver com 25% da sua vida máxima, todo dano causado em você é reduzido em 3.</p>
+<p style="margin-top: 10px;">Enquanto estiver com 25% da sua vida máxima, todo dano causado em você é reduzido em 6.</p>
 
 ### Analista
 <p style="margin-top: 10px;">Você ganha um bônus de +5 nas suas perícias de percepção, investigação e intuição.</p>
@@ -98,7 +98,7 @@ A sua escolha de Perks atender as seguintes limitações:
 <p style="margin-top: 10px;">Uma vez por combate ao dar [<b>stagger</b>]{stagger} em um inimigo você pode escolher recuperar toda a sua [<b>stagger</b>]{stagger}. O uso é recuperado com um descanso longo.</p>
 
 ### Resquícios de Uma Antiga Névoa Vermelha
-<p style="margin-top: 10px;">O seu acerto e clash ganham um bônus de +1 para cada 2 de diferença de speed entre você e o seu alvo.</p>
+<p style="margin-top: 10px;">O seu acerto e [<b>clash</b>]{clash} ganham um bônus de +1 para cada 2 de diferença de speed entre você e o seu alvo.</p>
 
 ### Desejo de Sobrevivência
 <p style="margin-top: 10px;">Um total de duas vezes ao sofrer stagger em um combate você ganha [<b>1 <img src="../../res/effects/Protection.png"> de proteção</b>]{protection} e [<b>1 <img src="../../res/effects/Power Up.png"> de power up</b>]{power_up}, por todo o combate.</p>
