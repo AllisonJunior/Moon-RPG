@@ -128,7 +128,7 @@ A sua escolha de Perks atender as seguintes limitações:
 
 ---
 
-### Fardo de Um Grande Guerreiro
+### Resquícios de Uma Antiga Névoa Vermelha
 <p style="margin-top: 10px;">O seu acerto de ataques e [<b>clashs</b>]{clash} ganham um bônus de +1 para cada 2 de diferença de speed entre você e o seu alvo.</p>
 
 ---
