@@ -10,17 +10,34 @@ function nav(_page) {
 // =========================
 function parseCustomTooltips(text) {
 
+    const buildTooltipMarkup = (content, key, url = null) => {
+        const attributes = url
+            ? `href="${url}" target="_blank" rel="noopener noreferrer" data_tooltip="${key}"`
+            : `data_tooltip="${key}"`;
+
+        const tag = url ? "a" : "span";
+
+        return `<${tag} class="tooltip-inline" ${attributes}>${content}</${tag}>`;
+    };
+
+    // <color="#hex">texto</color>
+    text = text.replace(/<color\s*=\s*['\"](#[0-9a-fA-F]{3,8})['\"]\s*>([\s\S]*?)<\/color>/g,
+        (match, color, content) => {
+            return `<span style="color: ${color};">${content}</span>`;
+        }
+    );
+
     // [texto](url){key}
     text = text.replace(/\[([^\]]+)\]\(([^)]+)\)\{([^}]+)\}/g,
         (match, content, url, key) => {
-            return `<a href="${url}" target="_blank" data_tooltip="${key}">${content}</a>`;
+            return buildTooltipMarkup(content, key, url);
         }
     );
 
     // [texto]{key}
     text = text.replace(/\[([^\]]+)\]\{([^}]+)\}/g,
         (match, content, key) => {
-            return `<span data_tooltip="${key}">${content}</span>`;
+            return buildTooltipMarkup(content, key);
         }
     );
 

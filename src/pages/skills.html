@@ -15,9 +15,22 @@
 
 
 <body>
+       <button class="return_btn" onclick="nav('../../index.html')"></button>
+       
        <div class="page_container">
+             
+              <nav class="navbar">
+               <div class="nav-right">
 
-             <div mkd-content="../../bd/skills.md"></div>       
+                   <button data-md="../../bd/skills.md">Informações Gerais</button>        
+                     <span class="nav-separator" aria-hidden="true"></span>
+                   <button data-md="../../bd/skills/axel.md" data>Axel Weber</button>        
+                   <button data-md="../../bd/skills/wuhan.md">Wuhan Xia</button>
+                   <button data-md="../../bd/skills/viktor.md">Viktor Valenhardt</button>
+               </div>
+             </nav>
+
+             <div mkd-content=""></div>       
 
              <button class = "btn" onclick="nav('../../index.html')">Voltar</button>
        </div>
