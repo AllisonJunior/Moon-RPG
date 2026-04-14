@@ -129,7 +129,7 @@ A sua escolha de Perks atender as seguintes limitações:
 ---
 
 ### Resquícios de Uma Antiga Névoa Vermelha
-<p style="margin-top: 10px;">O seu acerto de ataques e [<b>clashs</b>]{clash} ganham um bônus de +1 para cada 2 de diferença de speed entre você e o seu alvo.</p>
+<p style="margin-top: 10px;">O seu acerto de ataques e [<b>clashs</b>]{clash} ganham um bônus de +1 para cada 2 de diferença de speed entre você e o seu alvo (<i>a diferença considerada é quanto mais rápido você é em relação ao seu alvo</i>).</p>
 
 ---
 
