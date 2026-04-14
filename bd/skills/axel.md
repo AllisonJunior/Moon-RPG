@@ -18,7 +18,7 @@
       <p class="skill-name">Ordem</p>
       <div class="skill-text">
             <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
-            <p>Aplique [1<img src="../../res/effects/Bleed.png"> <u><color="#b00020">Bleed</color></u>]{bleed} no alvo.</p>
+            <p>Aplique [1<img src="../../res/effects/Bleed.png"> <u><color="#e40000">Bleed</color></u>]{bleed} no alvo.</p>
             <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
             <p><color="#3700ff"><b>[Ao Acertar]</b></color> Recupere 10 pontos de vida.</p>
       </div>

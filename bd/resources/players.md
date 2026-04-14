@@ -29,7 +29,7 @@ Aqui estarão listadas as armas de cada jogador.
 <p style="margin-top: 10px;">2d12 + Força <b>[<img src="../../res/skills/slash.png"> Cortante]</b></p>
 
 #### Habilidade
-<p style="margin-top: 10px;">O alcance dessa arma é aumentado em +5 feet e quando um combate começa você ganha [<b>1 <img src="../../res/effects/Haste.png"> de haste</b>]{haste} por todo o combate (<i>a primeira vez que você ganhar</i>[<b><img src="../../res/effects/Berserker.png">Berserker</b>]{wuhan_berserker} <i>ganhe</i> [<b>1 <img src="../../res/effects/Haste.png"> de haste</b>]{haste}<i> por todo o combate</i>).</p>
+<p style="margin-top: 10px;">O alcance dessa arma é aumentado em +5 feet e quando um combate começa você ganha [1<img src="../../res/effects/Haste.png"><u><color="#070049">Haste</color></u>]{haste} por todo o combate, ganhando um adicional também por todo o combate quando você ativar pela primeira vez [<img src="../../res/effects/wuhan/Berserker.png"> <u><color="#070049">Berserker</color></u>]{wuhan_berserker}.</p>
 
 ---
 

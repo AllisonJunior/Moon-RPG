@@ -489,6 +489,11 @@ body {
   line-height: 1.6;
 }
 
+/* evita espacamento extra em listas markdown "soltas" */
+.page_container [mkd-content] li > p {
+  margin: 0;
+}
+
 .page_container [mkd-content] ul ul,
 .page_container [mkd-content] ol ul,
 .page_container [mkd-content] ul ol,

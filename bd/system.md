@@ -1,1 +1,0 @@
-# [System]{absurd_text}

@@ -19,7 +19,7 @@ O sistema Moon concede acesso as seguintes reações adicionais:
 ---
 
 ### Clash
-<p style="margin-top: 10px; ">Como reação a você ou um aliado (<i>em até 5 feet de você</i>) sofrer um ataque, você pode começar uma troca de golpes com o atacante. Ambos começam a rolar seus ataques os comparando, onde o primeiro que ganhar 3 vezes causa [<b>dano crítico</b>]{critical_damage} no outro.</p>
+<p style="margin-top: 10px; ">Como reação a você ou um aliado (<i>em até 5 feet de você</i>) sofrer um ataque, você pode começar uma troca de golpes com o atacante. Ambos começam a rolar seus ataques os comparando, onde o primeiro que ganhar 3 vezes causa [<b><u>dano crítico</u></b>]{critical_damage} no outro.</p>
 
 <p style="margin-top: 10px; ">Note que, um acerto crítico (<i>10</i>) concede 2 acertos em vez de só um na contagem de clashs, do mesmo jeito que um acerto crítico negativo (<i>1</i>) concede dois acertos ao adversário.</p>
 
