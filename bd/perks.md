@@ -24,7 +24,7 @@ A sua escolha de Perks atender as seguintes limitações:
 ---
 
 ### Foco
-<p style="margin-top: 10px; ">Os seus ataques ganham um bônus de +1.</p>
+<p style="margin-top: 10px; ">Os acerto dos seus ataques ganham um bônus de +1.</p>
 
 ---
 
