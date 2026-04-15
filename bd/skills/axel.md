@@ -45,7 +45,7 @@
                   <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe +3 </color>[<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count}</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
                   <p><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}</p>
-                  <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
+                  <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
                   <p><color ="#fff">Cause 10 de dano adicional para cada efeito negativo presente no alvo<br>Cause 5 de dano adicional para cada 10 </color> [<img src="../../res/effects/axel/Bristle.png"></color><u><color ="#ff0000">Bristle</color></u>]{axel_bristle}</color> <color="#fff">presente no alvo</color> <br> <color ="#FFFF00">[Em um crítico]</color> <color="#fff">Ganhe +2</color> [<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count}</color></p>
             </div>
       </div>
