@@ -14,7 +14,7 @@
             </div>
             <p class="skill-name">Subjugação [征服]</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 8 </color>[<img src="../../res/effects/Haste.png"><u><color ="#948be8">Haste</color></u>]{poise}<color="#fff">, no próximo turno (Máx. 1x por turno)</color></p>
+                  <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 8 </color>[<img src="../../res/effects/Haste.png"><u><color ="#948be8">Haste</color></u>]{haste}<color="#fff"> no próximo turno (Máx. 1x por turno)</color></p>
                   <p class="solo-desc"><color ="#fff">Se a sua speed for superior a do alvo ganhe +1 de acerto</color></p>
                   <p class="solo-desc"><color ="#fff">Se o alvo tiver</color> [<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture} <color="#fff">e</color> [<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor} <color="#fff">+1 de acerto</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
@@ -39,7 +39,7 @@
             </div>
             <p class="skill-name">Golpe da Lâmina Crescente [新月刃击]</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 2 </color>[<img src="../../res/effects/Haste.png"><u><color ="#948be8">Haste</color></u>]{poise}<color="#fff">, no próximo turno (Máx. 1x por turno)</color></p>
+                  <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 2 </color>[<img src="../../res/effects/Haste.png"><u><color ="#948be8">Haste</color></u>]{haste}<color="#fff"> no próximo turno (Máx. 1x por turno)</color></p>
                   <p class="solo-desc"><color ="#fff">Se a sua speed for superior a do alvo ganhe +3 de acerto</color></p>
                   <p class="solo-desc"><color ="#fff">Se o alvo tiver</color> [<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture} <color="#fff">ou</color> [<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor} <color="#fff">+3 de acerto</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
@@ -72,7 +72,7 @@
                   <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
                   <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Ative </color>[<img src="../../res/effects/Tremor Burst.png"> <u><color="#ff0000">Tremor Burst</color></u>]{tremor_burst}</color><color="#fff"> 3x e reduza a [Count]{count} do</color> [<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor} <color="#fff">em 2.</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_3.png" width="32">
-                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture}</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor}<br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Aplique 1</color> [<img src="../../res/effects/wuhan/Concussion.png"> <u><color="#ff0000">Deathrite: Concussion</color></u>]{wuhan_concussion}</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cause 10 de dano adicional para cada 2</color>[<img src="../../res/effects/Haste.png"> <u><color="#948be8">Haste</color></u>]{haste}</color> <color="#Fff">que você possui</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cause 20 de dano adicional para cada 1</color>[<img src="../../res/effects/Bind.png"> <u><color="#ff0000">Bind</color></u>]{haste}</color> <color="#Fff">que o alvo possui</color></p>
+                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture}</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor}<br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Aplique 1</color> [<img src="../../res/effects/wuhan/Concussion.png"> <u><color="#ff0000">Deathrite: Concussion</color></u>]{wuhan_concussion}</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cause 10 de dano adicional para cada 2</color>[<img src="../../res/effects/Haste.png"> <u><color="#948be8">Haste</color></u>]{haste}</color> <color="#Fff">que você possui</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cause 20 de dano adicional para cada 1</color>[<img src="../../res/effects/Bind.png"> <u><color="#ff0000">Bind</color></u>]{bind}</color> <color="#Fff">que o alvo possui</color></p>
             </div>
       </div>
 </div>
@@ -109,6 +109,23 @@
       </div>
 </div>
       <div class="skills-divider"></div>
+      <div class="skill-card-row">
+      <div class="skill_description">
+            <p class="skill-name">Guarda Inabalável [坚定不移的守卫]</p>
+            <div class="skill-text">
+                  <p class="solo-desc"><color ="#fff">No início do seu turno ganhe 1 </color>[<img src="../../res/effects/Assist Defense.png"><u><color ="#948be8">Assist Defense</color></u>]{assist_defense}<color="#fff">. Uma vez por turno ao utilizar </color>[<img src="../../res/effects/Assist Defense.png"><u><color ="#948be8">Assist Defense</color></u>]{assist_defense}<color="#fff"> ganhe 2</color>[<img src="../../res/effects/Haste.png"><u><color ="#948be8">Haste</color></u>]{haste} <color="#fff"> no próximo turno.</color></p>
+            </div>
+      </div>
+</div>
+      <div class="skills-divider"></div>
+      <div class="skill-card-row">
+      <div class="skill_description">
+            <p class="skill-name">Imparável [势不可挡]</p>
+            <div class="skill-text">
+                  <p class="solo-desc"><color ="#fff">A primeira vez que você sofrer um ataque que zeraria sua [stagger]{stagger}, ignore o dano na sua [stagger]{stagger}.</color></p>
+            </div>
+      </div>
+</div>
 </div>
 
 
