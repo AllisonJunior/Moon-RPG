@@ -22,6 +22,8 @@
  "common_attack"   : "Um ataque não provindo de uma ação de skill.",
  "shield"          : "Vida temporária.",
  "assist_defense"  : "Quando um aliado em até 10 feet de você é atacado, você pode como ação livre consumir 1 uso (da assist defense) e redirecionar o ataque para você, utilizando sua reação de defesa ou clash contra o ataque.\n\n Quantidade máxima 3.\n\n No fim do turno perca um uso.",
+ "count"           : "A duração de um efeito.",
+ "coin_red"        : "Ataque com acerto garantido.",
 
  "vulneravel"    : "O alvo sobre este efeito sofre o dobro de dano, por X turnos.",
  "protection"    : "Sofra -(X*10)% de dano, por Y turnos. (Valor máximo de X = 10).",
@@ -31,10 +33,10 @@
  "haste"         : "O speed do alvo é aumentado em X, por X turnos.",
  "paralyze"      : "Reduza as próximas Y rolagem do alvo em (X*2).",
  "armor"         : "Aumente a CA do alvo em X, por Y turnos.",
-
+ "poise"         : "Reduz o crítico do seu ataque em X, por Y ataques. (Valor máximo de X = 10)",
 
  "wuhan_berserker" : "[Efeito Exclusivo de Wuhan Xia - Berserker]\n\nAo ganhar este efeito se transforme, ganhando 15 de shield e +3 na sua reação de clash (enquanto possuir este efeito).\n\n Quantidade máxima 1.\n\n No inicío do seu próximo turno, perca este efeito.",
- "axel_bristle"    : "[Efeito Exclusivo de Axel Weber - Bristle]\n\nAo acertar um inimigo sobre este feito cause dano de gloom equivalente a stack.",
+ "axel_bristle"    : "[Efeito Exclusivo de Axel Weber - Bristle]\n\nAo acertar um inimigo sobre este feito cause dano de gloom equivalente a stack.\n\nSe o alvo não for acertado por um turno a potência é reduzida em 1/3.",
  
  "absurd_text" : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 }

@@ -291,6 +291,14 @@ body {
   vertical-align: text-bottom;
 }
 
+/* <color="#hex">...</color> is parsed into <span style="color: ...">...</span>. */
+.page_container [mkd-content] u span[style*="color:"] {
+  text-decoration-line: inherit;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: from-font;
+  text-underline-offset: 0.08em;
+}
+
 .page_container iframe,
 .page_container video {
   max-width: 100%;
@@ -656,6 +664,14 @@ gap: 14px;
 margin: 8px 0;
 }
 
+.skills-divider {
+height: 1px;
+margin: 2px 0;
+margin-left: 142px;
+background: linear-gradient(90deg, rgba(185, 120, 45, 0), rgba(185, 120, 45, 0.75), rgba(185, 120, 45, 0));
+opacity: 0.9;
+}
+
 .skill_description {
 display: flex;
 flex-direction: column;
@@ -812,4 +828,10 @@ margin: 4px 0;
 .page_container [mkd-content] .fx-box .fx-tag {
 background: var(--fx-tag-bg);
 color: var(--fx-tag-color);
+}
+
+@media (max-width: 720px) {
+.skills-divider {
+  margin-left: 0;
+}
 }
