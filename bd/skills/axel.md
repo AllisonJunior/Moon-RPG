@@ -33,7 +33,7 @@
             <img class="slot-base" src="../../res/skills/slots/pride_2.png" width="128">
             <img class="slot-background" src="../../res/skills/slots/bkg_pride_2.png" width="128">
             <p class="slot-cost">2</p>
-            <img class="slot-dmgtype" src="../../res/skills/blunt.png" width="56">
+            <img class="slot-dmgtype" src="../../res/skills/pierce.png" width="56">
       </div>
       <div class="skill_description">
             <div class="skill-coins-row">
@@ -56,7 +56,7 @@
             <img class="slot-base" src="../../res/skills/slots/wrath_3.png" width="128">
             <img class="slot-background" src="../../res/skills/slots/bkg_wrath_3.png" width="128">
             <p class="slot-cost">3</p>
-            <img class="slot-dmgtype" src="../../res/skills/blunt.png" width="56">
+            <img class="slot-dmgtype" src="../../res/skills/pierce.png" width="56">
       </div>
       <div class="skill_description">
             <div class="skill-coins-row">
@@ -118,7 +118,7 @@
       <div class="skill_description">
             <p class="skill-name">Recuperação de Estabilidade</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Uma vez por turno ao acertar um alvo com 60+ </color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, recupere 10 pontos de vida.</color></p>
+                  <p class="solo-desc"><color ="#fff">Uma vez por turno ao acertar um alvo com 40+ </color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, recupere 10 pontos de vida.</color></p>
             </div>
       </div>
 </div>
