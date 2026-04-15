@@ -82,7 +82,7 @@
       <div class="skill_description">
             <p class="skill-name">Mariposa Fantasma [<i>Thysania Agrippina</i>]</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Sua furtividade ganha um bônus de +2 e em um ataque surpresa o seu <b>[ataque fatal]{fatal_attack}</b> causa dano máximo.</color></p>
+                  <p class="solo-desc"><color ="#fff">Sua furtividade ganha um bônus de +2 e em um ataque surpresa o seu [ataque fatal]{fatal_attack} causa dano máximo.</color></p>
             </div>
       </div>
 </div>
@@ -91,7 +91,7 @@
       <div class="skill_description">
             <p class="skill-name">Memórias do Passado</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Ao utilizar uma <b>ação especial</b> contra um alvo com 20+</color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#ff0000"><img src="../../res/skills/coin_unbreakable.png">[ <u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
+                  <p class="solo-desc"><color ="#fff">Ao utilizar uma ação especial contra um alvo com 20+</color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#ff0000"><img src="../../res/skills/coin_unbreakable.png">[ <u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
             </div>
       </div>
 </div>
@@ -109,7 +109,7 @@
       <div class="skill_description">
             <p class="skill-name">Admiração Genuína a Mais Bela</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Uma vez por turno você ganha +1 </color> [<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count} ao acertar um ataque não provindo de uma <b>ação especial</b> (com exceção do ataque final concedido pela ação especial de custo 3).</color></p>
+                  <p class="solo-desc"><color ="#fff">Uma vez por turno você ganha +1 </color> [<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count} ao acertar um ataque não provindo de uma ação especial (com exceção do ataque final concedido pela ação especial de custo 3).</color></p>
             </div>
       </div>
 </div>
@@ -118,7 +118,7 @@
       <div class="skill_description">
             <p class="skill-name">Recuperação de Estabilidade</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Uma vez por turno ao acertar um alvo com 40+ </color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, recupere 10 pontos de vida.</color></p>
+                  <p class="solo-desc"><color ="#fff">Uma vez por turno ao acertar um alvo com 40+ </color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, recupere 5 pontos de vida.</color></p>
             </div>
       </div>
 </div>
