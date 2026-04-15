@@ -23,7 +23,7 @@
                   <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
                   <p><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}<br> <color ="#FFFF00">[Em um crítico]</color> <color ="#fff">Aplique 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}</p>
                   <img class="skill-text-coin" src="../../res/skills/coin_3.png" width="32">
-                  <p><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}<br> <color ="#FFFF00">[Em um crítico]</color> <color ="#fff">Aplique d6 + 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}</p>
+                  <p><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}<br> <color ="#FFFF00">[Em um crítico]</color> <color ="#fff">Aplique d6 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}</p>
             </div>
       </div>
 </div>
@@ -64,10 +64,32 @@
             </div>
             <p class="skill-name">Responda ao Meu Comando!</p>
             <div class="skill-text">
+                  <p class="solo-desc"><color ="#fff">Com 10+</color>[<img src="../../res/effects/Poise.png"></color><u><color ="#948be8">Poise</color></u>]{axel_bristle} <color ="#fff">[Count]{count} você pode converter essa ação especial para <i>Destruição Iminente Daquele Ser...</i></color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
                   <p><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}</p>
                   <p class="solo-desc"><color ="#FFFF00"><b>[Fim do Ataque]</b> </color><color ="#fff">Ganhe 4 </color>[<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise}</p>
-                  <p class="solo-desc"><color ="#FFFF00"><b>[Fim do Ataque]</b> </color><color ="#fff">Faça com que dois aliados que estejam em até 15 feet de você utilizem em conjunto as suas primeiras ações especiais (a que possui custo 1), onde no fim desse ataque conjunto você ataca mais uma vez.</color></p>
+                  <p class="solo-desc"><color ="#FFFF00"><b>[Fim do Ataque]</b> </color><color ="#fff">Faça com que dois aliados que estejam em até 10 feet de você utilizem em conjunto as suas primeiras ações especiais (a que possui custo 1, como uma ação livre), onde no fim desse ataque conjunto, você irá ataca mais uma vez.</color></p>
+            </div>
+      </div>
+</div>  
+      <div class="skills-divider"></div>
+<div class="skill-card-row">
+      <div class="skill-slot">
+            <img class="slot-base" src="../../res/skills/slots/gloom_3.png" width="128">
+            <img class="slot-background" src="../../res/skills/slots/bkg_gloom_3.png" width="128">
+            <p class="slot-cost">?</p>
+            <img class="slot-dmgtype" src="../../res/skills/slash.png" width="56">
+      </div>
+      <div class="skill_description">
+            <div class="skill-coins-row">
+                  <img class="skill-coins" src="../../res/skills/coin_unbreakable.png" width="28">
+            </div>
+            <p class="skill-name">Destruição Iminente Daquele Ser...</p>
+            <div class="skill-text">
+                  <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Essa ação especial não consome [<img src="../../res/effects/Poise.png"></color><u><color ="#948be8">Poise</color></u>]{axel_bristle} <color ="#fff">[Count]{count}</color></p>
+                  <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
+                  <p><color ="#fff">Aplique 3 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle} <br> <color ="#FFFF00">[Em um crítico]</color> <color ="#fff">Aplique 7 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}</p>
+                  <p class="solo-desc"><color ="#FFFF00"><b>[Fim do Ataque]</b> </color><color ="#fff">Faça com que um aliado que esteja em até 30 feet de você utilize a sua terceira ação especial (a que possui custo 3, como uma ação livre).</color></p>
             </div>
       </div>
 </div>  
@@ -109,7 +131,7 @@
       <div class="skill_description">
             <p class="skill-name">Admiração Genuína a Mais Bela</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Uma vez por turno você ganha +1 </color> [<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count} ao acertar um ataque não provindo de uma ação especial (com exceção do ataque final concedido pela ação especial de custo 3).</color></p>
+                  <p class="solo-desc"><color ="#fff">Uma vez por turno você ganha +2 </color> [<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count} ao acertar um ataque não provindo de uma ação especial (com exceção do ataque final concedido pela ação especial de custo 3).</color></p>
             </div>
       </div>
 </div>
