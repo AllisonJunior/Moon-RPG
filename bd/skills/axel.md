@@ -98,6 +98,10 @@
 
 
 
+
+
+
+
 <div class="skills-wrapper">
 <div class="skills-section-title"><span>Passivas</span></div>
 <div class="skill-card-row">
@@ -144,7 +148,23 @@
             </div>
       </div>
 </div>
+      <div class="skills-divider"></div>
+<div class="skill-card-row">
+      <div class="skill_description">
+            <p class="skill-name">Algoz Pálido</p>
+            <div class="skill-text">
+                  <p class="solo-desc"><color ="#fff">A primeira vez que um alvo com 30+ </color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff"> sofrer dano aplique o efeito de pânico </color>[<img src="../../res/effects/Panic.png"><u><color ="#ff0000">Bristles</u>]{axel_panic}</color><color="#fff">.</color></p>
+            </div>
+      </div>
 </div>
+</div>
+
+
+
+
+
+
+
 
 
 
