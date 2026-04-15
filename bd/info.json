@@ -37,7 +37,7 @@
  "poise"         : "Reduz o crítico do seu ataque em X, por Y ataques. (Valor máximo de X = 10)",
 
  "wuhan_berserker" : "[Efeito Exclusivo de Wuhan Xia - Berserker]\n\nAo ganhar este efeito se transforme, ganhando 15 de shield e +3 na sua reação de clash (enquanto possuir este efeito).\n\n Quantidade máxima 1.\n\n No inicío do seu próximo turno, perca este efeito.",
- "axel_bristle"    : "[Efeito Exclusivo de Axel Weber - Bristle]\n\nAo acertar um inimigo sobre este feito cause dano de gloom equivalente a stack.\n\nSe o alvo não for acertado por um turno a potência é reduzida em 1/3.",
+ "axel_bristle"    : "[Efeito Exclusivo de Axel Weber - Bristle]\n\nAo acertar um inimigo sobre este efeito cause dano de gloom equivalente a stack.\n\nSe o alvo não for acertado por um turno a potência é reduzida em 1/3.",
  
  "absurd_text" : "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n\n\n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 }
