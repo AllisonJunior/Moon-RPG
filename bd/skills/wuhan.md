@@ -100,7 +100,7 @@
       </div>
 </div>
       <div class="skills-divider"></div>
-      <div class="skill-card-row">
+<div class="skill-card-row">
       <div class="skill_description">
             <p class="skill-name">Combatente Mortal [致命战士]</p>
             <div class="skill-text">
@@ -109,7 +109,7 @@
       </div>
 </div>
       <div class="skills-divider"></div>
-      <div class="skill-card-row">
+<div class="skill-card-row">
       <div class="skill_description">
             <p class="skill-name">Guarda Inabalável [坚定不移的守卫]</p>
             <div class="skill-text">
@@ -118,11 +118,20 @@
       </div>
 </div>
       <div class="skills-divider"></div>
-      <div class="skill-card-row">
+<div class="skill-card-row">
       <div class="skill_description">
             <p class="skill-name">Imparável [势不可挡]</p>
             <div class="skill-text">
                   <p class="solo-desc"><color ="#fff">A primeira vez que você sofrer um ataque que zeraria sua [stagger]{stagger}, ignore o dano na sua [stagger]{stagger}.</color></p>
+            </div>
+      </div>
+</div>
+      <div class="skills-divider"></div>
+<div class="skill-card-row">
+      <div class="skill_description">
+            <p class="skill-name">Expertise Básica [基础知识]</p>
+            <div class="skill-text">
+                  <p class="solo-desc"><color ="#fff">Testes de Sobrevivência, Percepção e Investigação são feitos com vantagem.</color></p>
             </div>
       </div>
 </div>

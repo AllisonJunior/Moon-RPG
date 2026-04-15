@@ -13,6 +13,7 @@ Cada ação especial possui alguns detalhes importantes:
 - A descrição do que cada moeda faz. 
 - O uso da palavra "Count" se refere a duração de um efeito, caso a descrição de uma moeda não contenha "Count" a duração do seu efeito não é aumentada.
 - Cada ação especial possui uma afinidade com um dos 7 pecados (no momento não é relevante para vocês).
+- Apesar das ações especiais poderem conter diversos ataques em uma única ação, todos devem ser focados na mesma criatura, a não ser que exista uma condicional na ação especial que indique que o ataque/moeda possa ser redirecionado para mais criaturas
 
 ---
 

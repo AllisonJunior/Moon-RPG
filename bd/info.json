@@ -39,12 +39,16 @@
  "rupture"       : "As próximas Y vezes que o alvo for acertado, receba X de dano fixo.",
  "tremor"        : "Quando acertado por um ataque que ativa Tremor Burst, cause X de dano na stagger.\n\n Dura por Y turnos, tendo sua duração reduzida em 1 todo fim de turno.",
  "tremor_burst"  : "Cause dano de stagger equivalente a potência de Tremor do alvo.",
+ "bleed"         : "Cause X de dano nas próximas Y ações do alvo (mover, atacar, cada comparação de um clash, etc).",
  
-
-
+ 
+ 
  "wuhan_berserker"  : "[Efeito Exclusivo de Wuhan Xia - Berserker]\n\nAo ganhar este efeito se transforme ganhando:  15 de shield, +15 feet de movimento e +2 na sua reação de clash (enquanto possuir este efeito).\n\n Quantidade máxima 1.\n\n No fim do seu próximo turno, perca este efeito.",
  "wuhan_concussion" : "[Efeito Exclusivo de Wuhan Xia - Deathrite: Concussion]\n\nAumente o dano de stagger causado pelo Tremor Burst em +5 por stack.\n\nAumente o dano de Rupture em +4 por stack.\n\nUma vez por turno ao ativar Tremor Burst aplique 1 de Bind no alvo no próximo turno.",
-
+ 
  "axel_bristle"     : "[Efeito Exclusivo de Axel Weber - Unique Sinking: Bristle]\n\nAo acertar um alvo sobre este efeito cause dano de gloom equivalente a stack.\n\nSe o alvo não for acertado por um turno a potência é reduzida em 1/3.",
- "axel_panic"       : "[Efeito Exclusivo de Axel Weber - Panic Type: Bristles]\n\nAlvos sobre este efeito ganham uma penalidade de -1 em todas as suas rolagens.\n\nUma vez por turno ao acertar um alvo sobre este efeito aumente a stack de Bristle em 2d6.\n\n Ações especiais que aplicam Bristle causam 5 de dano adicional (por moeda)."
+ "axel_panic"       : "[Efeito Exclusivo de Axel Weber - Panic Type: Bristles]\n\nAlvos sobre este efeito ganham uma penalidade de -1 em todas as suas rolagens.\n\nUma vez por turno ao acertar um alvo sobre este efeito aumente a stack de Bristle em 2d6.\n\n Ações especiais que aplicam Bristle causam 5 de dano adicional (por moeda).",
+ 
+ "viktor_bloodfeast" : "[Efeito Exclusivo de Viktor Valenhardt - Bloodfeast]\n\nContagem de todo dano de Bleed aplicado em um combate.",
+ "viktor_hardblood"  : "[Efeito Exclusivo de Viktor Valenhardt - Hardblood]\n\nEste efeito não reduz abaixo de 1.\n\nEste efeito utiliza a sua stack para reforçar e converter algumas das ações especiais."
 }
