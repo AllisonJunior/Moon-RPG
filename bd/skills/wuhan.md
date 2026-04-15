@@ -40,8 +40,8 @@
             <p class="skill-name">Golpe da Lâmina Crescente [新月刃击]</p>
             <div class="skill-text">
                   <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 2 </color>[<img src="../../res/effects/Haste.png"><u><color ="#948be8">Haste</color></u>]{haste}<color="#fff"> no próximo turno (Máx. 1x por turno)</color></p>
-                  <p class="solo-desc"><color ="#fff">Se a sua speed for superior a do alvo ganhe +3 de acerto</color></p>
-                  <p class="solo-desc"><color ="#fff">Se o alvo tiver</color> [<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture} <color="#fff">ou</color> [<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor} <color="#fff">+3 de acerto</color></p>
+                  <p class="solo-desc"><color ="#fff">Se a sua speed for superior a do alvo ganhe +2 de acerto</color></p>
+                  <p class="solo-desc"><color ="#fff">Se o alvo tiver</color> [<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture} <color="#fff">ou</color> [<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor} <color="#fff">+2 de acerto</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
                   <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 5 </color>[<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture}</color> <br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 5 </color>[<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor}</p>
                   <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
