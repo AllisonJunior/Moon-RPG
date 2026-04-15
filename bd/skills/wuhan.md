@@ -72,7 +72,7 @@
                   <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
                   <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Ative </color>[<img src="../../res/effects/Tremor Burst.png"> <u><color="#ff0000">Tremor Burst</color></u>]{tremor_burst}</color><color="#fff"> 3x e reduza a [Count]{count} do</color> [<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor} <color="#fff">em 2.</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_3.png" width="32">
-                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture}</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor}<br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Aplique 1</color> [<img src="../../res/effects/wuhan/Concussion.png"> <u><color="#ff0000">Deathrite: Concussion</color></u>]{wuhan_concussion}</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cause 10 de dano adicional para cada 2</color>[<img src="../../res/effects/Haste.png"> <u><color="#948be8">Haste</color></u>]{haste}</color> <color="#Fff">que você possui</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cause 20 de dano adicional para cada 1</color>[<img src="../../res/effects/Bind.png"> <u><color="#ff0000">Bind</color></u>]{haste}</color> <color="#Fff">que o alvo possui</color</p>
+                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Rupture.png"> <u><color="#ff0000">Rupture</color></u>]{rupture}</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Tremor.png"> <u><color="#ff0000">Tremor</color></u>]{tremor}<br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Aplique 1</color> [<img src="../../res/effects/wuhan/Concussion.png"> <u><color="#ff0000">Deathrite: Concussion</color></u>]{wuhan_concussion}</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cause 10 de dano adicional para cada 2</color>[<img src="../../res/effects/Haste.png"> <u><color="#948be8">Haste</color></u>]{haste}</color> <color="#Fff">que você possui</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cause 20 de dano adicional para cada 1</color>[<img src="../../res/effects/Bind.png"> <u><color="#ff0000">Bind</color></u>]{haste}</color> <color="#Fff">que o alvo possui</color></p>
             </div>
       </div>
 </div>
@@ -95,7 +95,16 @@
       <div class="skill_description">
             <p class="skill-name">Autoridade [权威]</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Toda </color>[<img src="../../res/effects/Rupture.png"><u><color="#ff0000">Rupture</color></u>]{rupture}<color="#fff"> aplicada por você só pode ser reduzida pelos seus ataques.</color></p>
+                  <p class="solo-desc"><color ="#fff"> Toda </color>[<img src="../../res/effects/Rupture.png"><u><color="#ff0000">Rupture</color></u>]{rupture}<color="#fff"> que é aplicada por você só pode ser reduzida pelos seus ataques.</color></p>
+            </div>
+      </div>
+</div>
+      <div class="skills-divider"></div>
+      <div class="skill-card-row">
+      <div class="skill_description">
+            <p class="skill-name">Combatente Mortal [致命战士]</p>
+            <div class="skill-text">
+                  <p class="solo-desc"><color ="#fff"> Ao atacar um alvo com 12+ </color>[<img src="../../res/effects/wuhan/Concussion.png"> <u><color="#ff0000">Deathrite: Concussion</color></u>]{wuhan_concussion}</color><color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#ff0000">[<img src="../../res/skills/coin_unbreakable.png"> <u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
             </div>
       </div>
 </div>
@@ -119,9 +128,9 @@
             </div>
             <p class="skill-name">Confrontar [面对]</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 5 [<u>Shield</u>]{shield}</color></p>
                   <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 1 </color>[<img src="../../res/effects/Haste.png"><u><color ="#948be8">Haste</color></u>]{haste} <color="#fff">no próximo turno (Máx 2x por turno)</color></p>
                   <p class="solo-desc"><color ="#FFFF00"><b>[Ao Ganhar Uma Comparação]</b> </color><color ="#fff">Ganhe 1 </color>[<img src="../../res/effects/Haste.png"><u><color ="#948be8">Haste</color></u>]{haste} <color="#fff">no próximo turno (Máx 2x por turno)</color></p>
+                  <p class="solo-desc"><color ="#FFFF00"><b>[Ao Ganhar o Clash]</b> </color><color ="#fff">Aplique 2 </color>[<img src="../../res/effects/Bind.png"><u><color ="#ff0000">Bind</color></u>]{bind} <color="#fff">no próximo turno (Máx 2x por turno)</color></p>
             </div>
       </div>
 </div>

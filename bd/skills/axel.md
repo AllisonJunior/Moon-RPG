@@ -46,7 +46,7 @@
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
                   <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}</p>
                   <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
-                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Cause 10 de dano adicional para cada efeito negativo presente no alvo</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Cause 5 de dano adicional para cada 10 [<img src="../../res/effects/axel/Bristle.png"></color><u><color ="#ff0000">Bristle</color></u>]{axel_bristle}</color> <color="#fff">presente no alvo</color> <br> <color ="#FFFF00">[Em um crítico]</color> <color="#fff">Ganhe +2</color> [<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count}</color></p>
+                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Cause 10 de dano adicional para cada efeito negativo presente no alvo</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Cause 5 de dano adicional para cada 10 </color> [<img src="../../res/effects/axel/Bristle.png"></color><u><color ="#ff0000">Bristle</u>]{axel_bristle}</color> <color="#fff">presente no alvo</color> <br> <color ="#FFFF00">[Em um crítico]</color> <color="#fff">Ganhe +2</color> [<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count}</color></p>
             </div>
       </div>
 </div>      
@@ -117,7 +117,7 @@
       <div class="skill_description">
             <p class="skill-name">Memórias do Passado</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Ao utilizar uma ação especial contra um alvo com 20+</color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#ff0000"><img src="../../res/skills/coin_unbreakable.png">[ <u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
+                  <p class="solo-desc"><color ="#fff">Ao utilizar uma ação especial contra um alvo com 20+</color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#ff0000">[<img src="../../res/skills/coin_unbreakable.png"><u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
             </div>
       </div>
 </div>
