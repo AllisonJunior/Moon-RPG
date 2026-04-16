@@ -52,6 +52,6 @@
  
  "viktor_bloodfeast"          : "[Efeito Exclusivo de Viktor Valenhardt - Bloodfeast]\n\nContagem de todo dano de Bleed aplicado em um combate.",
  "viktor_bloodfeastconsumed"  : "[Efeito Exclusivo de Viktor Valenhardt - Bloodfeast Consumed]\n\nContagem de todo Bloodfeast consumido pelo personagem.",
- "viktor_hardblood"           : "[Efeito Exclusivo de Viktor Valenhardt - Hardblood]\n\nValor máximo 10.\n\nEste efeito não reduz abaixo de 1.\n\nEste efeito utiliza a sua stack para reforçar e converter algumas das ações especiais.",
+ "viktor_hardblood"           : "[Efeito Exclusivo de Viktor Valenhardt - Hardblood]\n\nValor máximo 20.\n\nEste efeito não reduz abaixo de 1.\n\nEste efeito utiliza a sua stack para reforçar e converter algumas das ações especiais.",
  "viktor_prey"                : "[Efeito Exclusivo de Viktor Valenhardt - Prey]\n\nEnquanto sobre este efeito o alvo não perde duração de Bleed.\n\nEste efeito é encerrado em um turno."
 }
