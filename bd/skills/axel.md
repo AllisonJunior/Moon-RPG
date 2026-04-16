@@ -15,9 +15,11 @@
             </div>
             <p class="skill-name">Honras Fúnebres</p>
             <div class="skill-text">
+                  <p class="solo-desc">[<img src="../../res/effects/Unfocused Volley.png"><u><color ="#948be8">Unfocused Volley</color></u>]{unfocused_volley}</p>
                   <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 2 </color>[<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise}</p>
                   <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe +2 </color>[<img src="../../res/effects/Poise.png"><u><color ="#948be8">Poise</color></u>]{poise} <color="#fff">[Count]{count}</color></p>
                   <p class="solo-desc"><color ="#fff">Acerto aumentado em +1 para cada 5</color> [<img src="../../res/effects/axel/Bristle.png"></color><u><color ="#ff0000">Bristle</color></u>]{axel_bristle} <color ="#fff">no alvo (Máx. +3)</color></p>
+                  <p class="solo-desc"><color ="#fff">Com 5+</color>[<img src="../../res/effects/Poise.png"></color><u><color ="#948be8">Poise</color></u>]{axel_bristle} <color ="#fff">[Count]{count} conceda aos próximos 3 ataques um alcance de até 35 feet</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
                   <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle} <br> <color ="#FFFF00">[Em um Crítico]</color> <color ="#fff">Aplique 1 </color>[<img src="../../res/effects/axel/Bristle.png"> <u><color="#ff0000">Bristle</color></u>]{axel_bristle}</p>
                   <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
