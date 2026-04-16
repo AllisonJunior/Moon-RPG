@@ -60,7 +60,7 @@ _Aqueles que possuem os temidos olhos carmesim..._
 <p style="margin-top: 10px;"><i>Como ação bônus você pode realizar um ataque.</i></p>  
 
 #### Sede de Sangue (*Traço Único*)
-<p style="margin-top: 10px;"><i>Ao acertar um ataque recupere 3 pontos de vida (desde que o alvo seja um ser vivo).</i></p>  
+<p style="margin-top: 10px;"><i>Ao acertar um ataque recupere 3 pontos de vida (se o alvo for um ser vivo).</i></p>  
 
 ---
 
