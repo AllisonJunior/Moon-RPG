@@ -36,7 +36,7 @@
  "bind"          : "O speed do alvo é reduzido em X, por Y turnos.",
  "paralyze"      : "Reduza as próximas Y rolagem do alvo em (X*2).",
  "armor"         : "Aumente a CA do alvo em X, por Y turnos.",
- "poise"         : "Reduz o crítico do seu ataque em X, por Y ataques. (Valor máximo de X = 10)",
+ "poise"         : "Reduz o crítico do seu ataque em X, por Y ataques.\n\nValor máximo de X é 10.\n\n Y é reduzido em 1, quando um ataque crítico ocorre e quando o turno encerra.",
  "rupture"       : "As próximas Y vezes que o alvo for acertado, receba X de dano fixo.",
  "tremor"        : "Quando acertado por um ataque que ativa Tremor Burst, cause X de dano na stagger.\n\n Dura por Y turnos, tendo sua duração reduzida em 1 todo fim de turno.",
  "tremor_burst"  : "Cause dano de stagger equivalente a potência de Tremor do alvo.",
