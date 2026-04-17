@@ -44,7 +44,7 @@
             <div class="skill-text">
                   <p class="solo-desc"><color ="#00eeff"><b>[Ao Usar]</b> </color><color ="#fff">Ganhe 5 de [shield]{shield}</color></p>
                   <p class="solo-desc"><color ="#fff">Se o alvo tiver 55+ </color>[<img src="../../res/effects/leonard/Cyclical Karma.png"><u><color ="#ff0000">Cyclical Karma</color></u>]{leonard_cyclicalkarma} <color="#fff">+4 de acerto</color></p>
-                  <p class="solo-desc"><color ="#fff">Se o alvo tiver 20+ </color>[<img src="../../res/effects/leonard/Interloper.png"><u><color ="#ff0000">Interloper</color></u>]{leonard_interloper} <color="#fff">+4 de acerto</color></p>
+                  <p class="solo-desc"><color ="#fff">Se o alvo tiver </color>[<img src="../../res/effects/leonard/Interloper.png"><u><color ="#ff0000">Interloper</color></u>]{leonard_interloper} <color="#fff">+4 de acerto</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
                   <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Conceda um dos 3 seguintes efeitos a um aliado que esteja em até 30 feet de você: <br>- 5 de [shield]{shield}<br>- 10 feet de movimento adicional no seu próximo turno<br>- d4 adicional para uma rolagem (1x por aliado)</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cure 5 de <u>vida</u> de um aliado que esteja em até 30 feet de você</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cure 5 de <u>[stagger]{stagger}</u> de um aliado que esteja em até 30 feet de você</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
