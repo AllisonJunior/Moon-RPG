@@ -23,6 +23,7 @@
  "shield"           : "Vida temporária.",
  "assist_defense"   : "Quando um aliado em até 10 feet de você é atacado, você pode como ação livre consumir 1 uso (da assist defense) e redirecionar o ataque para você, utilizando sua reação de defesa ou clash contra o ataque.\n\n Quantidade máxima 3.\n\n No fim do turno perca um uso.",
  "count"            : "A duração de um efeito.",
+ "potency"          : "A quantidade de um efeito.",
  "coin_red"         : "Ataque que possui acerto garantido, mas não garante que o alvo não possa esquivar ou se defender de alguma forma contra esse ataque.",
  "fatal_attack"     : "Uma vez por turno como ação livre você pode se concentrar e aumentar a precisão de um dos seus ataques, aumentando o seu dano em 2d6.\n\nA cada 10 níveis o dano dessa habilidade aumenta em 2d6.",
  "area_attack"      : "Um ataque que utiliza o mesmo acerto para afetar mais de uma criatura dentro de um determinado alcance.",
@@ -35,13 +36,15 @@
  "power_down"    : "Reduza o valor dos seus testes de acerto, clash e evade em X.",
  "haste"         : "O speed do alvo é aumentado em X, por Y turnos.",
  "bind"          : "O speed do alvo é reduzido em X, por Y turnos.",
- "paralyze"      : "Reduza as próximas Y rolagem do alvo em (X*2).",
+ "paralyze"      : "Remova o bônus das próximas Y rolagem do alvo.",
  "armor"         : "Aumente a CA do alvo em X, por Y turnos.",
  "poise"         : "Reduz o crítico do seu ataque em X, por Y ataques.\n\nValor máximo de X é 10.\n\n Y é reduzido em 1, quando um ataque crítico ocorre e quando o turno encerra.",
  "rupture"       : "As próximas Y vezes que o alvo for acertado, receba X de dano fixo.",
  "tremor"        : "Quando acertado por um ataque que ativa Tremor Burst, cause X de dano na stagger.\n\n Dura por Y turnos, tendo sua duração reduzida em 1 todo fim de turno.",
  "tremor_burst"  : "Cause dano de stagger equivalente a potência de Tremor do alvo.",
  "bleed"         : "Cause X de dano nas próximas Y ações do alvo (mover, atacar, cada comparação de um clash, etc).",
+ "burn"          : "Cause X de dano no fim dos próximos Y turnos do alvo.",
+ "sinking"       : "???",
  
  
  
@@ -50,7 +53,12 @@
  
  "axel_bristle"     : "[Efeito Exclusivo de Axel Weber - Unique Sinking: Bristle]\n\nAo acertar um alvo sobre este efeito cause dano de gloom equivalente a stack.\n\nSe o alvo não for acertado por um turno a potência é reduzida em 1/3.",
  "axel_panic"       : "[Efeito Exclusivo de Axel Weber - Panic Type: Bristles]\n\nAlvos sobre este efeito ganham uma penalidade de -1 em todas as suas rolagens.\n\nUma vez por turno ao acertar um alvo sobre este efeito aumente a stack de Bristle em 2d6.\n\n Ações especiais que aplicam Bristle causam 5 de dano adicional (por moeda).",
- 
+
+ "leonard_importanttome"     : "[Efeito Exclusivo de Leonard Boss - Important To Me]\n\nA primeira vez que você tiver seus pontos de vida zerados, não caia ficando com um de vida e perdendo esse efeito.",
+ "leonard_cyclicalkarma"     : "[Efeito Exclusivo de Leonard Boss - Cyclical Karma]\n\nEste efeito conta como dois efeitos negativos e seus benefícios só podem ser ativados por Leonard Boss.\n\nA potência (X) deste efeito só aumenta 1x por turno ao ser acertada por um ataque que aplique este efeito. X aumenta conforme a seguinte sequência:\n\n 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610 (Máximo).\n\nUm alvo sobre este efeito tem ganha as seguintes penalidades:\n\n- Redução de -1 em testes contra a reação de evadir\n- O alvo sofre X de dano de tipo lust adicional ao ser acertado por um ataque que aplique este efeito (2x por turno)",
+ "leonard_interloper"        : "[Efeito Exclusivo de Leonard Boss - Interloper]\n\nCause X de dano nas próximas Y ativações de efeitos negativos.\n\nNo fim do turno (de aplicação deste efeito) aumente o Count de um efeito negativo em +1 para cada dois Count deste efeito.\n\nNo fim do turno (de aplicação deste efeito) aumente a Potência de um efeito negativo em +5 para cada 20 de Potência deste efeito.",
+ "leonard_karmicconsequence" : "[Efeito Exclusivo de Leonard Boss - Karmic Consequence]\n\nEste efeito conta como dois efeitos negativos.\n\n Valor máximo 20.\n\nGanhe 1 de Fragile e 1 de Bind por todo combate a cada 2 stacks.",
+
  "viktor_bloodfeast"          : "[Efeito Exclusivo de Viktor Valenhardt - Bloodfeast]\n\nContagem de todo dano de Bleed aplicado em um combate.",
  "viktor_bloodfeastconsumed"  : "[Efeito Exclusivo de Viktor Valenhardt - Bloodfeast Consumed]\n\nContagem de todo Bloodfeast consumido pelo personagem.",
  "viktor_hardblood"           : "[Efeito Exclusivo de Viktor Valenhardt - Hardblood]\n\nValor máximo 20.\n\nEste efeito não reduz abaixo de 1.\n\nEste efeito utiliza a sua stack para reforçar e converter algumas das ações especiais.",

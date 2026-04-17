@@ -154,7 +154,7 @@ Primeiramente, sempre escolha suas perks após escolher sua classe e ter definid
 ---
 
 ### Contato Paralisante
-<p style="margin-top: 10px;">A primeira vez que um inimigo acertar um ataque em você o mesmo ganha [4 <u><color="#e40000"><img src="../../res/effects/Paralyze.png">Paralyze</color></u>]{vulnerability}, nas próximas 4 rolagens.</p>
+<p style="margin-top: 10px;">A primeira vez que um inimigo acertar um ataque em você o mesmo ganha [4 <u><color="#e40000"><img src="../../res/effects/Paralyze.png">Paralyze</color></u>]{paralyze}.</p>
 
 ---
 
