@@ -47,3 +47,18 @@ Aqui estarão listadas as armas de cada jogador.
 <p style="margin-top: 10px;">Quando um aliado acertar um ataque em até 25 feet de você, você pode como ação livre também atacar esse alvo (<b><i>Máx 2x por turno</i></b>).</p>
 
 ---
+
+<img src="../../res/playerstokens/leonard.png" style="float: right;">
+
+### Serra (_Leonard Boss_)
+
+#### Acerto 
+<p style="margin-top: 10px;">d10 + Proficiência + Destreza, Inteligência ou Sabedoria</p>
+
+#### Dano
+<p style="margin-top: 10px;">2d10 + Destreza <b>[<img src="../../res/skills/slash.png"> Cortante]</b></p>
+
+#### Habilidade
+<p style="margin-top: 10px;">Uma vez por turno ao acertar um ataque você pode rolar d4 onde, em um resultado superior ou igual a 2 cause d6 de dano adicional e role o d4 novamente (<b><i>Máx. 10x por turno</b></i>).</p>
+
+---
