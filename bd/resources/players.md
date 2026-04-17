@@ -50,7 +50,7 @@ Aqui estarão listadas as armas de cada jogador.
 
 <img src="../../res/playerstokens/leonard.png" style="float: right;">
 
-### Serra (_Leonard Boss_)
+### Grande Serra Circular (_Leonard Boss_)
 
 #### Acerto 
 <p style="margin-top: 10px;">d10 + Proficiência + Destreza, Inteligência ou Sabedoria</p>
