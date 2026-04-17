@@ -104,7 +104,7 @@
       <div class="skill_description">
             <p class="skill-name">Combatente Mortal [致命战士]</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff"> Ao atacar um alvo com 12+ </color>[<img src="../../res/effects/wuhan/Concussion.png"> <u><color="#ff0000">Deathrite: Concussion</color></u>]{wuhan_concussion}</color><color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#ff0000">[<img src="../../res/skills/coin_unbreakable.png"> <u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
+                  <p class="solo-desc"><color ="#fff"> Ao atacar um alvo com 12+ </color>[<img src="../../res/effects/wuhan/Concussion.png"> <u><color="#ff0000">Deathrite: Concussion</color></u>]{wuhan_concussion}</color><color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#948be8">[<img src="../../res/skills/coin_unbreakable.png"> <u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
             </div>
       </div>
 </div>

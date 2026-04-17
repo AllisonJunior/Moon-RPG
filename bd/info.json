@@ -23,10 +23,10 @@
  "shield"           : "Vida temporária.",
  "assist_defense"   : "Quando um aliado em até 10 feet de você é atacado, você pode como ação livre consumir 1 uso (da assist defense) e redirecionar o ataque para você, utilizando sua reação de defesa ou clash contra o ataque.\n\n Quantidade máxima 3.\n\n No fim do turno perca um uso.",
  "count"            : "A duração de um efeito.",
- "coin_red"         : "Ataque que possui acerto garantido.\n\nA reação de Evadir e a reação de Clash com Excision Coins são duas formas possíveis de se lidar com o acerto garantido.",
+ "coin_red"         : "Ataque que possui acerto garantido, mas não garante que o alvo não possa esquivar ou se defender de alguma forma contra esse ataque.",
  "fatal_attack"     : "Uma vez por turno como ação livre você pode se concentrar e aumentar a precisão de um dos seus ataques, aumentando o seu dano em 2d6.\n\nA cada 10 níveis o dano dessa habilidade aumenta em 2d6.",
  "area_attack"      : "Um ataque que utiliza o mesmo acerto para afetar mais de uma criatura dentro de um determinado alcance.",
- "unfocused_volley" : "Cada ataque dessa ação especial pode ser redirecionado para o mesmo alvo ou um alvo distinto, dentro do alcance.",
+ "unfocused_volley" : "Os ataques presentes nessa ação especial não precisam focar no mesmo alvo, cada moeda/ataque pode acertar um alvo distinto, dentro do alcance.",
  
  "vulneravel"    : "O alvo sobre este efeito sofre o dobro de dano, por X turnos.",
  "protection"    : "Sofra -(X*10)% de dano, por Y turnos. (Valor máximo de X = 10).",

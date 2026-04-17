@@ -123,7 +123,7 @@
       <div class="skill_description">
             <p class="skill-name">Memórias do Passado</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#fff">Ao utilizar uma ação especial contra um alvo com 20+</color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#ff0000">[<img src="../../res/skills/coin_unbreakable.png"><u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
+                  <p class="solo-desc"><color ="#fff">Ao utilizar uma ação especial contra um alvo com 20+</color> [<img src="../../res/effects/axel/Bristle.png"> <u><color ="#ff0000">Bristle</color></u>]{axel_bristle}<color ="#fff">, converta a última moeda da ação especial para uma </color><color ="#948be8">[<img src="../../res/skills/coin_unbreakable.png"><u>Unbreakable Coin]{coin_red}</u></color><color="#fff">.</color></p>
             </div>
       </div>
 </div>

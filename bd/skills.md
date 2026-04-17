@@ -31,6 +31,8 @@ Essa reação única substitui uma das quatro reações originais disponíveis a
 
 ### Moedas
 
-<p>Moedas definem a quantidade de ataques que devem ser feitos por uma ação especial. Mas existem algumas variações da moeda padrão, como por exemplo a <color ="#ff0000"><u>Unbreakable Coin</u></color> <img src="../../res/skills/coin_unbreakable.png" width="32"> que basicamente define que o ataque possui acerto garantido.<br><br>A propriedade <u>acerto garantido</u> só indica que o ataque não necessita de rolagem para acertar, portanto ainda há algumas maneiras de lidar com um ataque com esse tipo de moeda, como: a reação de <u>[evadir]{evade}</u> e <color ="#ff0000"><u>Excision Coins</u> </color><img src="../../res/skills/coin_excision.png" width="32">.</p>
+<p>Moedas definem a quantidade de ataques que devem ser feitos por uma ação especial. Mas existem algumas variações da moeda padrão, como por exemplo a <color ="#7c0000"><u>Unbreakable Coin</u></color> <img src="../../res/skills/coin_unbreakable.png" width="32"> que basicamente define que o ataque possui acerto garantido, e não que o alvo não possa esquivar ou se defender desse ataque.<br></p>
+
+<p>As moedas utilizadas por esse sistema são:<br>- <color ="#044801"><u>Normal Coin</u></color> <img src="../../res/skills/coin.png" width="32">, que representa um ataque comum<br>- <color ="#7c0000"><u>Unbreakable Coin</u></color> <img src="../../res/skills/coin_unbreakable.png" width="32">, que como discutido anteriormente garante um acerto<br>- <color ="#65b925"><u>Excision Coin</u></color> <img src="../../res/skills/coin_excision.png" width="32">, que é um tipo de moeda capaz de destruir <color ="#7c0000"><u>Unbreakable Coins</u></color> <img src="../../res/skills/coin_unbreakable.png" width="32"><br>- <color ="#200064"><u>Sever Coin</u></color> <img src="../../res/skills/coin_sever.png" width="32">, que ...</p>
 
 ---

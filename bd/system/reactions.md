@@ -14,7 +14,7 @@ O sistema Moon concede acesso as seguintes reações adicionais:
 ---
 
 ### Evadir
-<p style="margin-top: 10px; ">Como reação a sofrer um ataque você pode tentar esquivar, essa esquiva é um salvaguarda de destreza com DC equivalente ao acerto do ataque.</b><br><br>Essa reação permite esquivar também de <color ="#ff0000">[<img src="../../res/skills/coin_unbreakable.png"><u>Unbreakable Coins]{coin_red}</u></color></p>
+<p style="margin-top: 10px; ">Como reação a sofrer um ataque você pode tentar esquivar, essa esquiva é um salvaguarda de destreza com DC equivalente ao acerto do ataque.</b><br><br>Essa reação permite esquivar também de <color ="#7c0000">[<img src="../../res/skills/coin_unbreakable.png"><u>Unbreakable Coins]{coin_red}</u></color>.</p>
 
 
 
