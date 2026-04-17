@@ -59,6 +59,6 @@ Aqui estarão listadas as armas de cada jogador.
 <p style="margin-top: 10px;">2d10 + Destreza <b>[<img src="../../res/skills/slash.png"> Cortante]</b></p>
 
 #### Habilidade
-<p style="margin-top: 10px;">Uma vez por turno ao acertar um ataque você pode rolar d4 onde, em um resultado superior ou igual a 2 cause d6 de dano adicional e role o d4 novamente (<b><i>Máx. 10x por turno</b></i>).</p>
+<p style="margin-top: 10px;">Uma vez por turno ao acertar um ataque você pode rolar d4 onde, em um resultado superior ou igual a 2 cause d6 de dano adicional e role o d4 novamente (<b><i>Máx. 4x por turno</b></i>).</p>
 
 ---
