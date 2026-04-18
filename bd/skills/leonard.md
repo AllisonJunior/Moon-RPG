@@ -46,7 +46,7 @@
                   <p class="solo-desc"><color ="#fff">Se o alvo tiver 55+ </color>[<img src="../../res/effects/leonard/Cyclical Karma.png"><u><color ="#ff0000">Cyclical Karma</color></u>]{leonard_cyclicalkarma} <color="#fff">+4 de acerto</color></p>
                   <p class="solo-desc"><color ="#fff">Se o alvo tiver </color>[<img src="../../res/effects/leonard/Interloper.png"><u><color ="#ff0000">Interloper</color></u>]{leonard_interloper} <color="#fff">+4 de acerto</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
-                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Conceda um dos 3 seguintes efeitos a um aliado que esteja em até 30 feet de você: <br>- 5 de [shield]{shield}<br>- 10 feet de movimento adicional no seu próximo turno<br>- d4 adicional para uma rolagem (1x por aliado)</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cure 5 de <u>vida</u> de um aliado que esteja em até 30 feet de você</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cure 5 de <u>[stagger]{stagger}</u> de um aliado que esteja em até 30 feet de você</color></p>
+                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Conceda 1 dos 3 seguintes efeitos a um aliado que esteja em até 30 feet de você: <br>- 5 de [shield]{shield}<br>- 10 feet de movimento adicional no seu próximo turno<br>- d4 adicional para uma rolagem (1x por aliado)</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cure 5 de <u>vida</u> de um aliado que esteja em até 30 feet de você</color><br><color ="#FFFF00">[Em um Acerto] </color><color="#fff">Cure 5 de <u>[stagger]{stagger}</u> de um aliado que esteja em até 30 feet de você</color></p>
                   <img class="skill-text-coin" src="../../res/skills/coin_2.png" width="32">
                   <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aumente a [Potência]{potency} do efeito de um aliado no seu campo de visão em +1 (quando possível)</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aumente a [Count]{count} do efeito de um aliado no seu campo de visão em +1 (quando possível)</color></p>
             </div>
@@ -67,7 +67,7 @@
             <p class="skill-name">O Destino é Cruel...</p>
             <div class="skill-text">
                   <img class="skill-text-coin" src="../../res/skills/coin_1.png" width="32">
-                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/leonard/Karmic Consequence.png"><u><color="#ff0000">Karmic Consequence</color></u>]{leonard_karmicconsequence}</color><color="#fff"> (2x por turno)</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/leonard/Cyclical Karma.png"><u><color="#ff0000">Cyclical Karma</color></u>]{leonard_cyclicalkarma}</p>
+                  <p><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/leonard/Karmic Consequence.png"><u><color="#ff0000">Karmic Consequence</color></u>]{leonard_karmicconsequence}</color><color="#fff"> (3x por turno)</color><br><color ="#FFFF00">[Em um Acerto] </color><color ="#fff">Aplique 1 </color>[<img src="../../res/effects/leonard/Cyclical Karma.png"><u><color="#ff0000">Cyclical Karma</color></u>]{leonard_cyclicalkarma}</p>
             </div>
       </div>
 </div>
@@ -170,7 +170,7 @@
             </div>
             <p class="skill-name">Isso é Muito Complicado</p>
             <div class="skill-text">
-                  <p class="solo-desc"><color ="#FFFF00"><b>[Ao Esquivar]</b> </color><color ="#fff">Se o alvo tiver 2+ </color>[<img src="../../res/effects/leonard/Karmic Consequence.png"><u><color="#ff0000">Karmic Consequence</color></u>]{leonard_karmicconsequence} <color="#fff"> utilize a ação especial <i>O Destino é Cruel...</i> (Máx. 1x por turno)</color></p>
+                  <p class="solo-desc"><color ="#FFFF00"><b>[Ao Esquivar]</b> </color><color ="#fff">Se o alvo tiver 6+ </color>[<img src="../../res/effects/leonard/Karmic Consequence.png"><u><color="#ff0000">Karmic Consequence</color></u>]{leonard_karmicconsequence} <color="#fff"> utilize a ação especial <i>O Destino é Cruel...</i> (Máx. 1x por turno)</color></p>
                   <p class="solo-desc"><color ="#FFFF00"><b>[Ao Esquivar]</b> </color><color ="#fff">Recupere 3 de [stagger]{stagger}</color></p>
             </div>
       </div>
